@@ -8,7 +8,7 @@
 
 ---
 
-## 🔽 Download Plugin
+## 🔽 Download the Free Plugin
 
 Click the button below to download the latest version of the SWAC Tool:
 
@@ -20,7 +20,7 @@ Click the button below to download the latest version of the SWAC Tool:
 
 ## 🛠 What is SWAC Tool?
 
-**SWAC Tool** (Simple WhatsApp Chat Tool) is a floating WhatsApp button plugin for WordPress. It allows visitors to quickly open a WhatsApp chat with you, increasing real-time communication, customer support, and sales conversion. No coding needed — just install, configure, and go live in minutes!
+**SWAC Tool** (Simple WhatsApp Chat Tool) is a floating WhatsApp button free plugin for WordPress. It allows visitors to quickly open a WhatsApp chat with you, increasing real-time communication, customer support, and sales conversion. No coding needed — just install, configure, and go live in minutes!
 
 ---
 
@@ -50,7 +50,7 @@ Using SWAC Tool can:
 
 ## ⚙️ How to Install
 
-1. [Download the plugin ZIP](https://drive.google.com/file/d/1lcmyxuad-ZIWnmGIH-QWWQMq-D45b8ZC/view?usp=sharing)
+1. [Download the free plugin ZIP](https://drive.google.com/file/d/1lcmyxuad-ZIWnmGIH-QWWQMq-D45b8ZC/view?usp=sharing)
 2. Go to `WordPress Admin → Plugins → Add New → Upload Plugin`
 3. Upload the ZIP file and click **Install Now**
 4. Activate the plugin
@@ -65,7 +65,7 @@ Using SWAC Tool can:
 
 ## 🌐 About the Developer
 
-This plugin is developed and maintained by [Dizetech](https://dizetech.in) — a trusted leader in:
+This Free plugin is developed and maintained by [Dizetech](https://dizetech.in) — a trusted leader in:
 
 - 🔹 **Custom WordPress Plugin Development**
 - 🔹 **WooCommerce Integration**
@@ -81,7 +81,7 @@ This plugin is developed and maintained by [Dizetech](https://dizetech.in) — a
 
 ![SWAC Tool floating WhatsApp chat button](swac-tool-screenshot.png)
 
-> *(Replace this image with a screenshot of your plugin in action)*
+> *(Simple WhatsApp Chat Tool - SWAC-TOOL Free plugin screenshot)*
 
 ---
 
