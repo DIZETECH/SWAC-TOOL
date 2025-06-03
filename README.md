@@ -12,7 +12,7 @@
 
 Click the button below to download the latest version of the SWAC Tool:
 
-👉 [**Download SWAC Tool v2.1**](https://your-download-link.com/swac-tool.zip)
+👉 [**Download SWAC Tool v2.1**](https://drive.google.com/file/d/1lcmyxuad-ZIWnmGIH-QWWQMq-D45b8ZC/view?usp=sharing)
 
 > Developed by [Dizetech](https://dizetech.in) — *Best Website Design Company* and *Custom Plugin Design Company* in India.
 
@@ -50,7 +50,7 @@ Using SWAC Tool can:
 
 ## ⚙️ How to Install
 
-1. [Download the plugin ZIP](https://your-download-link.com/swac-tool.zip)
+1. [Download the plugin ZIP](https://drive.google.com/file/d/1lcmyxuad-ZIWnmGIH-QWWQMq-D45b8ZC/view?usp=sharing)
 2. Go to `WordPress Admin → Plugins → Add New → Upload Plugin`
 3. Upload the ZIP file and click **Install Now**
 4. Activate the plugin
@@ -79,7 +79,7 @@ This plugin is developed and maintained by [Dizetech](https://dizetech.in) — a
 
 ## 📸 Screenshot
 
-![SWAC Tool floating WhatsApp chat button](swac-tool-screenshot.png.png)
+![SWAC Tool floating WhatsApp chat button](swac-tool-screenshot.png)
 
 > *(Replace this image with a screenshot of your plugin in action)*
 
@@ -119,7 +119,7 @@ We offer tailored development services to build anything you need for WordPress,
 
 ---
 
-📦 **Download Now** → [SWAC Tool – Simple WhatsApp Chat Tool](https://your-download-link.com/swac-tool.zip)  
+📦 **Download Now** → [SWAC Tool – Simple WhatsApp Chat Tool](https://drive.google.com/file/d/1lcmyxuad-ZIWnmGIH-QWWQMq-D45b8ZC/view?usp=sharing)  
 🔧 **Powered by** [Dizetech – Custom Plugin Design Company](https://dizetech.in)
 
 ---
