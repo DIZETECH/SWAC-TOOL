@@ -1,6 +1,6 @@
 # SWAC Tool – Simple WhatsApp Chat Tool for WordPress
 
-[![Version](https://img.shields.io/badge/version-1.9-green.svg)](#)
+[![Version](https://img.shields.io/badge/version-2.1-green.svg)](#)
 [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 [![Built by Dizetech](https://img.shields.io/badge/built%20by-Dizetech-informational)](https://dizetech.in)
 
@@ -12,7 +12,7 @@
 
 Click the button below to download the latest version of the SWAC Tool:
 
-👉 [**Download SWAC Tool v1.9**](https://your-download-link.com/swac-tool.zip)
+👉 [**Download SWAC Tool v2.1**](https://your-download-link.com/swac-tool.zip)
 
 > Developed by [Dizetech](https://dizetech.in) — *Best Website Design Company* and *Custom Plugin Design Company* in India.
 
@@ -79,7 +79,7 @@ This plugin is developed and maintained by [Dizetech](https://dizetech.in) — a
 
 ## 📸 Screenshot
 
-![SWAC Tool floating WhatsApp chat button](screenshot.png)
+![SWAC Tool floating WhatsApp chat button](swac-tool-screenshot.png.png)
 
 > *(Replace this image with a screenshot of your plugin in action)*
 
