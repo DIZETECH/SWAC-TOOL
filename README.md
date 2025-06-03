@@ -1,83 +1,125 @@
 # SWAC Tool – Simple WhatsApp Chat Tool for WordPress
 
+[![Version](https://img.shields.io/badge/version-1.9-green.svg)](#)
 [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+[![Built by Dizetech](https://img.shields.io/badge/built%20by-Dizetech-informational)](https://dizetech.in)
 
-**SWAC Tool** is a **simple WhatsApp chat tool** that allows you to effortlessly add a floating WhatsApp chat button to your WordPress website. It helps you engage with your visitors in real-time, improve customer support, and increase conversions — all with just a few clicks.
-
-🔗 **Created by [Dizetech](https://dizetech.in) – Best Website Design Company & Custom Plugin Design Company**
-
----
-
-## 🌟 Features
-
-- ✅ Lightweight & fast
-- ✅ Clean, responsive WhatsApp floating button
-- ✅ Customize phone number, default message, and button position
-- ✅ No coding required
-- ✅ Compatible with all WordPress themes
-- ✅ Easily extendable for developers
+> ✅ A lightweight, customizable, and **simple WhatsApp chat tool** to boost user engagement on your WordPress website.
 
 ---
 
-## 🔧 Installation
+## 🔽 Download Plugin
 
-1. Download the plugin or clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/swac-tool.git
+Click the button below to download the latest version of the SWAC Tool:
 
-    Upload the folder to your /wp-content/plugins/ directory.
+👉 [**Download SWAC Tool v1.9**](https://your-download-link.com/swac-tool.zip)
 
-    Activate the plugin via WordPress Admin > Plugins.
+> Developed by [Dizetech](https://dizetech.in) — *Best Website Design Company* and *Custom Plugin Design Company* in India.
 
-    Go to SWAC Tool Settings from the admin menu.
+---
 
-    Enter your WhatsApp number, chat text, and select the button position.
+## 🛠 What is SWAC Tool?
 
-📸 Screenshots
+**SWAC Tool** (Simple WhatsApp Chat Tool) is a floating WhatsApp button plugin for WordPress. It allows visitors to quickly open a WhatsApp chat with you, increasing real-time communication, customer support, and sales conversion. No coding needed — just install, configure, and go live in minutes!
 
-🚀 SEO Keywords
+---
 
-    Simple WhatsApp Chat Tool
+## 🚀 Key Features
 
-    WhatsApp Button for WordPress
+- 📱 Add a floating WhatsApp chat button to any WordPress site
+- 🎯 Customize default message, mobile number, and position
+- ⚡️ Lightweight – No jQuery or heavy assets
+- 🎨 Mobile-friendly and responsive design
+- 🔒 Clean code, GPL v2 licensed
+- 🧩 Works with any theme or page builder
 
-    Floating Chat Plugin WordPress
+---
 
-    Custom Plugin Design Company
+## 🎯 SEO Benefits
 
-    Best Website Design Company
+Using SWAC Tool can:
 
-    WhatsApp Chat Integration Plugin
+- Improve **customer interaction** and response time
+- Increase **conversion rates** with instant messaging
+- Reduce **bounce rate** by offering live chat support
+- Enhance your site's **SEO ranking** with better engagement metrics
 
-🛠 Customization
+> The **simple WhatsApp chat tool** your WordPress site needs!
 
-Need additional features or custom design?
+---
 
-    This plugin is developed and maintained by Dizetech – Custom Plugin Design Company, the best website design company offering tailored WordPress development solutions.
+## ⚙️ How to Install
 
-Reach out to us for:
+1. [Download the plugin ZIP](https://your-download-link.com/swac-tool.zip)
+2. Go to `WordPress Admin → Plugins → Add New → Upload Plugin`
+3. Upload the ZIP file and click **Install Now**
+4. Activate the plugin
+5. Go to `SWAC Tool` settings in your admin panel
+6. Enter:
+   - Your WhatsApp mobile number
+   - Default chat message
+   - Button position (left or right)
+7. Save changes and you're live 🎉
 
-    Custom plugin development
+---
 
-    E-commerce integration
+## 🌐 About the Developer
 
-    Theme customization
+This plugin is developed and maintained by [Dizetech](https://dizetech.in) — a trusted leader in:
 
-    WhatsApp API integration
+- 🔹 **Custom WordPress Plugin Development**
+- 🔹 **WooCommerce Integration**
+- 🔹 **Website Speed Optimization**
+- 🔹 **UI/UX & SEO-First Web Design**
 
-📄 License
+> Looking for **custom plugin design** or want to build your own feature-rich tools?  
+> 👉 [Contact Dizetech](https://dizetech.in#contact) – *The Best Website Design Company in India.*
 
-Released under the GNU GPL v2 License.
-Feel free to use, modify, and share!
-🤝 Contributing
+---
 
-Want to contribute? Fork the repository, make changes, and submit a pull request. We welcome all contributions to make this simple WhatsApp chat tool even better!
-📬 Support
+## 📸 Screenshot
 
-Need help or custom features?
-📧 Contact us or visit https://dizetech.in
-🔗 Related Tags
+![SWAC Tool floating WhatsApp chat button](screenshot.png)
 
-#WordPressPlugin #WhatsAppButton #SimpleChatTool #CustomerSupportPlugin #WebsiteDesignCompany #CustomPluginDesign #FloatingChatWidget #LiveChat
+> *(Replace this image with a screenshot of your plugin in action)*
 
-SWAC Tool – Power your WordPress site with a clean, customizable, and simple WhatsApp chat tool from Dizetech.
+---
+
+## 📄 License
+
+This plugin is released under the [GNU GPL v2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).  
+Feel free to use, modify, and share it as needed.
+
+---
+
+## 🔎 SEO Keywords
+
+`simple whatsapp chat tool`  
+`wordpress whatsapp plugin`  
+`floating chat button plugin`  
+`best whatsapp plugin wordpress`  
+`custom plugin design company`  
+`best website design company`  
+`live chat support plugin`  
+`whatsapp integration for websites`
+
+---
+
+## 🏷️ Tags
+
+`#WordPress` `#WhatsAppChat` `#LiveSupport` `#FloatingButton` `#CustomerSupport`  
+`#SimpleWhatsAppChatTool` `#WebsiteDesignCompany` `#CustomPluginDesignCompany`
+
+---
+
+## 📬 Need Help?
+
+For support or feature requests, contact [Dizetech](https://dizetech.in).  
+We offer tailored development services to build anything you need for WordPress, WooCommerce, and beyond.
+
+---
+
+📦 **Download Now** → [SWAC Tool – Simple WhatsApp Chat Tool](https://your-download-link.com/swac-tool.zip)  
+🔧 **Powered by** [Dizetech – Custom Plugin Design Company](https://dizetech.in)
+
+---
